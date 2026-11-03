@@ -27,10 +27,10 @@ This project presents a report on Artificial Intelligence Technology Trends for 
 ## Project Document
 The complete report is available in the PDF file uploaded to this repository.
 
-**File:** `AI_Technology_Trends_Report_2025_2026_Nithish_R.pdf`
+**File:** `AI_Technology_Trends_Report_2025_2026_Naveen_Kumar.pdf`
 
 ## Author
-**Nithish R**  
+**Naveen Kumar M**  
 Department of Information Technology  
 Dhanalakshmi College of Engineering
 
